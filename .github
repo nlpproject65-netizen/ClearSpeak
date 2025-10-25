@@ -1,0 +1,12 @@
+data/raw/.gitkeep 
+
+data/processed/.gitkeep
+
+models/trained/.gitkeep
+
+notebooks/.gitkeep
+
+app/.gitkeep
+
+utils/.gitkeep
+
